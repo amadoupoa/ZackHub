@@ -4,8 +4,7 @@ Use your brain and dont install anything you dont trust, virus total this if you
 
 cheats cheets roblox blox fruits fisch
 
-open executor and run script
-open executor first
-or the script will break
-then it should appear in thing
-it should appear in the executor i should say
+1. Open executor
+2. Download file
+3. launch file
+4. bully kids
